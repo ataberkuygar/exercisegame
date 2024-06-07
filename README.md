@@ -6,8 +6,8 @@
 
 
 ## Dataset Installation
-  ### Dataset Link: https://drive.google.com/drive/folders/1WE0JB1N0teZHPjep_ibvpQuOEjlijeUs?usp=sharing
-  - Please download  a folder named 'dataset' and place it in the project directory.
+  ### Dataset Link: https://drive.google.com/drive/folders/13Y2X9EmLNipJtiN519jJLoIJhP_nszbg?usp=share_link
+  - Please download  a folder named 'dataset' inside datasets and place it in the project directory.
 
 
 ## Required Libraries
