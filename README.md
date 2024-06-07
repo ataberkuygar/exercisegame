@@ -5,13 +5,9 @@
   - Python 3.9
 
 
-
-
 ## Dataset Installation
   ### Dataset Link: https://drive.google.com/drive/folders/1WE0JB1N0teZHPjep_ibvpQuOEjlijeUs?usp=sharing
-  - Please create a folder named 'dataset' in the project directory.
-  - Download the 'Fit3D Video Dataset.rar' file from the link below and move it into this folder.
-  - Extract it.
+  - Please download  a folder named 'dataset' and place it in the project directory.
 
 
 ## Required Libraries
