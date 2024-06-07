@@ -8,7 +8,7 @@
 ## Dataset Installation
   ### Dataset Link: https://drive.google.com/drive/folders/13Y2X9EmLNipJtiN519jJLoIJhP_nszbg?usp=share_link
   - Please download  a folder named 'dataset' inside datasets and place it in the project directory.
-
+	-model.h5 is in drive as well.
 
 ## Required Libraries
     - Create a virtual environment:
