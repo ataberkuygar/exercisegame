@@ -12,7 +12,7 @@
 
 ## Requirements
   - Python 3.9
-  - Tensorow,numpy,Keras,OpenCV
+  - Tensorflow,numpy,Keras,OpenCV
 
 ## Dataset Installation
   ### Dataset Link: https://drive.google.com/drive/folders/13Y2X9EmLNipJtiN519jJLoIJhP_nszbg?usp=share_link
