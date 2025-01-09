@@ -44,4 +44,3 @@
   - Model Type: LSTM
   - Model Video Sequence Count: 75 Frames per Video
   - Trained Model Video Resolution: 128 x 128
-  - Accuracy: %87
