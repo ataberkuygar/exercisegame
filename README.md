@@ -7,7 +7,7 @@
 - Developed a machine learning model to classify exercises from video data using LSTM architecture
 - Processed and analyzed the Fit3D Video Dataset containing 245 videos across 7 exercise classes
 - Implemented video preprocessing and feature extraction using OpenCV and NumPy
-- Built and trained the model using TensorFlow, achieving 87% classification accuracy
+- Built and trained the model using TensorFlow, achieving 97% classification accuracy
 - Handled video sequences of 75 frames per video, with input resolution of 128x128 pixels
 
 ## Requirements
